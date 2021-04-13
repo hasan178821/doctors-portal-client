@@ -1,0 +1,11 @@
+.text-brand{
+  color: #11d0d9;
+}
+.brand-button{
+  background-color: #11d0d9;
+  padding: 8px 16px;
+  color: whitesmoke;
+  font-weight: 600;
+  letter-spacing: 3px;
+  font-size: 16px;
+}

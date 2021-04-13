@@ -1,0 +1,9 @@
+.dynamic-card{
+    width: 30%;
+    margin-left: 25px;
+    box-shadow: 5px 5px 15px lightgrey;
+    padding: 25px;
+}
+.blog-card-image{
+    width: 70px;
+}

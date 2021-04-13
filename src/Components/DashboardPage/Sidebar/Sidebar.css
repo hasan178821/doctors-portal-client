@@ -1,0 +1,16 @@
+.side-bar{
+    padding: 25% 30px;
+    height: 100vh;
+    background-color: #18d2ae;
+}
+.side-bar-menu{
+    list-style: none;
+}
+
+.side-bar-menu li{
+    padding: 20px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
